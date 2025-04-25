@@ -4,3 +4,5 @@ whitenoise
 pillow
 django-tinymce
 fpdf
+qrcode
+tempfile
