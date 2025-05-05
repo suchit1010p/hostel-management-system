@@ -13,3 +13,4 @@ pyparsing
 python-dateutil
 qrcode
 white-noise
+python-decouple
